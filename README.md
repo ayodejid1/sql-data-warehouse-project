@@ -107,6 +107,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I'm **Baraa Khatib Salkini**, also known as **Data With Baraa**. I’m an IT professional and passionate YouTuber on a mission to share knowledge and make working with data enjoyable and engaging!
+Hi there! I'm **Anibaba Ayodeji**. I’m a data and business intelligence analyst and also a transitioning data engineer, on a mission to gain and share knowledge to make an impact!
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayodeji-anibaba-93b000173/)
